@@ -15,7 +15,7 @@
 
 <h2>⚡ Fun fact about me:</h2>
 
-- <b>I am the youngest girl in the family
+- <b>I am the youngest girl in my family
 - <b> My favorite T.V. Show is Friends, Melcolm in the middle  
 
 <h2> 🤳 Connect with me:</h2>
